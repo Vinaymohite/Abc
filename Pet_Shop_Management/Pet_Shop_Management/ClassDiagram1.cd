@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pet_Shop_Management.ADMIN_LOGIN">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACAACgCAAAAUACAEAAAAAAAQQI=</HashCode>
+      <FileName>ADMIN_LOGIN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.CHANGE_PASSWORD" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgECAAAAAAAECgABgCAAAQAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CHANGE_PASSWORD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.Class1" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.CUSTOMER_DETAILS" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAgABAAAACACAACAAAIAACIAEIAAAAAAAA=</HashCode>
+      <FileName>CUSTOMER_DETAILS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.CUSTOMER_REGISTER" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGKgAoREEiIgEBQCAACADAiWCQAAYCCDEGQAAgDSQQA=</HashCode>
+      <FileName>CUSTOMER_REGISTER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.CustomerDetailsReport" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACAAAAEAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerDetailsReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.CustomerDetailsrpt" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>CustomerDetailsrpt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.CachedCustomerDetailsrpt" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerDetailsrpt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Pet_Shop_Management.EMPLOYEE_DETAILS" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAQCAAAASAAgIAACAEGAAAAAAAAA=</HashCode>
+      <FileName>EMPLOYEE_DETAILS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.EMPLOYEE_REGISTER" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UGAAAAgQASAAARCQAAKAIADCIAwDACCC0CALAgAAQQI=</HashCode>
+      <FileName>EMPLOYEE_REGISTER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.LOGIN" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAA4AAAAAGAAAAAAAAA=</HashCode>
+      <FileName>LOGIN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.MDI" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EmKAQACQCCAAgAACmCCAkESuBAJBIgYBGCRAACEEACE=</HashCode>
+      <FileName>MDI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.PETS" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAgECAAABAAAECgMACCAAwDICAAACAIAgAAAAA=</HashCode>
+      <FileName>PETS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.PRODUCT" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QGAAAgQgECAIERQAAECAMACGQAwTICiCECAKAgAAAQA=</HashCode>
+      <FileName>PRODUCT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.ProductDetails" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.Program" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.progress">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAQACQAEBAAAACAAAACAAAIIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>progress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.REMAINDER" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABgEAgEKAAAAAAAECgwjkCAAD3IAAAAAAAAAAAAAA=</HashCode>
+      <FileName>REMAINDER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.SALARY" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAAAAaAgABAQAACAAABCIAAYAACAEGAAAAAAAAA=</HashCode>
+      <FileName>SALARY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.SALARY_DETAILS" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAASAAgIAACAEGAAAAAAAAA=</HashCode>
+      <FileName>SALARY_DETAILS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.SalaryReport" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAAAEAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SalaryReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.Salaryrpt" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Salaryrpt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.CachedSalaryrpt" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Salaryrpt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Pet_Shop_Management.SALES">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAUCAAAAAACACAAAECAAACIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SALES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.SALES_DETAILS" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAggUSgAAACACECgAbkCCEAQYoCJEEAIAgBDAQA=</HashCode>
+      <FileName>SALES_DETAILS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.SUPPLIER_DETAILS" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QGAAAAAAESAAABSAAACAAABCYMw7AACC1HBPAAAAQwA=</HashCode>
+      <FileName>SUPPLIER_DETAILS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.SUPPLIER_RECORDS">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAABAAAACAAAASAAgIAACAEGAAAAAAAAA=</HashCode>
+      <FileName>SUPPLIER_RECORDS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.USER_LOGIN" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACAACgCAAAQUACAEAAAAAAAQQI=</HashCode>
+      <FileName>USER_LOGIN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.Properties.Resources" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pet_Shop_Management.Properties.Settings">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
